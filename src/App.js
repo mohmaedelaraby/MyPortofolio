@@ -1,10 +1,11 @@
 
 import './App.css';
+import Intro from './components/Introduction/Intro';
 
 function App() {
   return (
     <div className="App">
-    HRLLO
+   <Intro/>
     </div>
   );
 }
